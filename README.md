@@ -1,3 +1,10 @@
+This project is based on torchvision (BSD 3-Clause License).
+Original source: https://github.com/pytorch/vision  
+Copyright (c) Soumith Chintala 2016, All rights reserved.
+
+This project includes modifications and extensions to the original code.
+
+
 # torchvision
 
 [![total torchvision downloads](https://pepy.tech/badge/torchvision)](https://pepy.tech/project/torchvision)
